@@ -1,0 +1,26 @@
+{
+  "name": "mongooseValidator",
+  "version": "0.0.0",
+  "description": "Useful validators for mongoose.",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "3.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tinple/mongooseValidator"
+  },
+  "keywords": [
+    "validator",
+    "mongoose"
+  ],
+  "author": "Tinple",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tinple/mongooseValidator/issues"
+  },
+  "homepage": "https://github.com/Tinple/mongooseValidator"
+}
