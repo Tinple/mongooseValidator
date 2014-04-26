@@ -6,7 +6,7 @@ mongooseValidator
 ## Installation
 
 ```
-$ npm install mongooseValidator
+$ npm install mongoose_validator
 ```
 
 ## mongooseValidator
