@@ -1,6 +1,6 @@
 {
-  "name": "mongooseValidator",
-  "version": "0.0.1",
+  "name": "mongoose_validator",
+  "version": "0.0.2",
   "description": "Useful validators for mongoose.",
   "main": "index.js",
   "dependencies": {
